@@ -1,1 +1,1 @@
-My new-dir readme
+Getting started on how to navigate around the github Workspaces. 
